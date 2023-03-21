@@ -6,6 +6,7 @@
 - Sequelize (ORM);
 - Postgres;
 - Jest (Unit test);
+- Docker
 
 
 ## Como executar a aplicação
