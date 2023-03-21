@@ -1,6 +1,11 @@
 # Desafio: Consulta Processual
 
 ## Ferramentas e Linguagens que usei: 
+- NodeJS
+- ExpressJS;
+- Sequelize (ORM);
+- Postgres;
+- Jest (Unit test);
 
 
 ## Como executar a aplicação
