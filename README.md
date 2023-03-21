@@ -19,7 +19,9 @@
 
 ## Docker:
 
-O pgadm onde você pode ver a interface do PostgreSQL está na porta 5050. E o pgdb está na porta 5432
+⚠️ importante: Assim que for feito git clone do rep de backend, por favor, criar uma pasta dentro das pasta backend chamada “pgdb” e dentro da pasta “pgdb” criar uma pasta “pgdata”.
+
+O pgadm onde você pode ver a interface do PostgreSQL está na porta 5050. E o pgdb está na porta 5432.
 
 Crendenciais para acessar o postgres adm: <br>
 `Usuário: admin@admin.com` <br>
