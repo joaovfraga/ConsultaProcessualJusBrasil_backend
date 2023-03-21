@@ -1,6 +1,9 @@
-# Como executar a aplicação
+# Desafio: Consulta Processual
 
-`git clone`
+
+## Como executar a aplicação
+
+`git clone https://github.com/joaovfraga/ConsultaProcessualJusBrasil_backend`
 `npm install`
 `npx sequelize-cli db:migrate`
 `npx sequelize-cli db:seed:all`
