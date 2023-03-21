@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "postgres",
+    "database": "jus_qa",
+    "host": "localhost",
+    "port": "5432",
+    "dialect": "postgres"
+  },  
+  "test": {
+    "username": "admin",
+    "password": "postgres",
+    "database": "jus_test",
+    "host": "localhost",
+    "port": "5432",
+    "dialect": "postgres"
+  }
+}
