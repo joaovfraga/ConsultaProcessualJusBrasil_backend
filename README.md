@@ -1,4 +1,4 @@
-# Desafio: Consulta Processual
+# Desafio: Consulta Processual (JusBrasil)
 
 ## Ferramentas e Linguagens que usei: 
 - NodeJS
@@ -17,6 +17,6 @@
 `npm start` <br>
 
 Um nivel acima onde tem o docker-.yml 
-rode "docker-compose up -d --build" 
+rode `docker-compose up -d --build` 
 
 Visite: http://localhost:3000
