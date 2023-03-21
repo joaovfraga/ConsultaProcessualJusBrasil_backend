@@ -1,12 +1,12 @@
 # Desafio: Consulta Processual (JusBrasil)
 
 ## Ferramentas, Framework e Linguagens que usei no backend: 
-- NodeJS
+- NodeJS;
 - ExpressJS;
 - Sequelize (ORM);
 - Postgres;
 - Jest (Unit test);
-- Docker
+- Docker;
 
 
 ## Como executar a aplicação
