@@ -31,5 +31,5 @@ Um nivel acima onde tem o docker-.yml
 rode `docker-compose up -d --build` 
 
 ## Por fim:
-Visite: http://localhost:3000
+Visite: http://localhost:3000 <br>
 O backend está na porta http://localhost:3300
