@@ -15,11 +15,11 @@
 `npm install` <br>
 `npx sequelize-cli db:migrate` <br>
 `npx sequelize-cli db:seed:all` <br>
-`npm start` <br>
+`npm start —port=5050` <br>
 
 ## Docker:
 
-Fiz um docker pra facilitar o build do projeto porque o banco está dentro do docker, usando o postgres. O pgdb padrão está na porta `5432`, porém na hora  acessar tem que mudar pra `5050`.
+O pgadm onde você pode ver a interface do PostgreSQL está na porta 5050. E o pgdb está na porta 5432
 
 Crendenciais para acessar o postgres adm: <br>
 `Usuário: admin@admin.com` <br>
@@ -30,4 +30,5 @@ O host é `pgdb` e a senha é `postgres.`
 Um nivel acima onde tem o docker-.yml 
 rode `docker-compose up -d --build` 
 
+## Por fim:
 Visite: http://localhost:3000
