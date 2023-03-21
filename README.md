@@ -21,9 +21,9 @@
 
 Fiz um docker pra facilitar o build do projeto porque o banco está dentro do docker, usando o postgres. O pgdb padrão está na porta `5432`, porém na hora  acessar tem que mudar pra `5050`.
 
-Crendenciais para acessar o postgres adm:
-`Usuário: admin@admin.com`
-`Senha: postgres`
+Crendenciais para acessar o postgres adm: <br>
+`Usuário: admin@admin.com` <br>
+`Senha: postgres` <br>
 
 O host é `pgdb` e a senha é `postgres.` 
 
