@@ -19,7 +19,7 @@
 
 ## Docker:
 
-⚠️ importante: Assim que for feito git clone do rep de backend, por favor, criar uma pasta dentro das pasta backend chamada “pgdb” e dentro da pasta “pgdb” criar uma pasta “pgdata”.
+⚠️ importante: Assim que for feito git clone do rep de backend, por favor, criar uma pasta pgdata na raiz do projeto (pasta do backend que você acabou de clonar). Motivo: o `docker-compose.yml` sendo mais específico, onde está sendo declarado o container do pgdb, que fica na prota 5432 tem o volumes apontado para essa pasta. Sem ela não vai rodar o banco e consequentemente o resto do sistema.
 
 O pgadm onde você pode ver a interface do PostgreSQL está na porta 5050. E o pgdb está na porta 5432.
 
