@@ -15,7 +15,7 @@
 `npm install` <br>
 `npx sequelize-cli db:migrate` <br>
 `npx sequelize-cli db:seed:all` <br>
-`npm start —port=5050` <br>
+`npm start —port=3300` <br>
 
 ## Docker:
 
@@ -31,4 +31,4 @@ Um nivel acima onde tem o docker-.yml
 rode `docker-compose up -d --build` 
 
 ## Por fim:
-Visite: http://localhost:3000
+Visite: http://localhost:3300
