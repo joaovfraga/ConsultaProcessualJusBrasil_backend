@@ -1,6 +1,6 @@
 # Desafio: Consulta Processual (JusBrasil)
 
-## Ferramentas e Linguagens que usei: 
+## Ferramentas, Framework e Linguagens que usei no backend: 
 - NodeJS
 - ExpressJS;
 - Sequelize (ORM);
