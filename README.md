@@ -8,6 +8,8 @@
 - Jest (Unit test);
 - Docker;
 
+## Importante: 
+🚩🚩 Refiz o projeto e coloquei tudo em um repositório: <a href="https://github.com/joaovfraga/ConsultaProcessualJusBrasil_finalVersion">Clique aqui para ver</a>. Troquei o Postgres por sqlite.
 
 ## Como executar a aplicação:
 
